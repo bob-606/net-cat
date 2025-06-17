@@ -1,5 +1,4 @@
 # net-cat
-## Authors: Egil Viira, Jay Lim
 
 ### Server Handling
 - Create a server with `go run .`
@@ -10,3 +9,5 @@
 - Type `nc localhost [portnumber]`
 - Enter your name
 - Hope your friends (you) are online
+
+### Authors: Egil Viira, Jay Lim
