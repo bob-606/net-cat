@@ -10,4 +10,4 @@
 - Enter your name
 - Hope your friends (you) are online
 
-### Authors: Egil Viira, Jay Lim
+### Authors: Egil Viira, J Lim
